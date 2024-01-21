@@ -24,7 +24,7 @@ Para comenzar a utilizar este proyecto, sigue estos pasos:
 
 ## Contribuir
 
-¡Tu contribución es valiosa para mejorar **¡Factura Ya!**! Si deseas contribuir, sigue las mejores prácticas de desarrollo de software y documenta cualquier cambio que realices. Utiliza GitHub para gestionar las contribuciones.
+¡Tu contribusción es valiosa para mejorar **¡Factura Ya!**! Si deseas contribuir, sigue las mejores prácticas de desarrollo de software y documenta cualquier cambio que realices. Utiliza GitHub para gestionar las contribuciones.
 
 **Recuerda:** Al contribuir, asegúrate de hacer referencia a Angel, el creador original del proyecto.
 

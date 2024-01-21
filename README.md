@@ -1,4 +1,4 @@
-# Mi Proyecto PHP
+# ¡Factura Ya!
 
 Este es un proyecto de facturación construido con PHP puro, siguiendo el patrón de diseño MVC (Modelo-Vista-Controlador) y utilizando PDO para la conexión a la base de datos MySQL.
 

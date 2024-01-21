@@ -36,7 +36,7 @@ _Este software se ofrece como Software Libre y se concede permiso, de forma grat
 
 Las siguientes condiciones deben cumplirse:
 
-    _1. El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software._
-    _2. Si decides redistribuir el Software de forma gratuita o mediante compensación financiera, siempre se deberá hacer referencia al autor original, Angel Calderon Mantilla **(@angelitojpcm)**._
+_1. El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software._
+_2. Si decides redistribuir el Software de forma gratuita o mediante compensación financiera, siempre se deberá hacer referencia al autor original, Angel Calderon Mantilla **(@angelitojpcm)**._
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A LAS GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE LOS DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O DE OTRA MANERA, DERIVADA DE, FUERA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.

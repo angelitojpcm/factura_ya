@@ -1,0 +1,16 @@
+{
+    "name": "angel_calderon_m/factura_ya",
+    "description": "Sistema de Facturación Electrónica",
+    "autoload": {
+        "psr-4": {
+            "AngelCalderonM\\FacturaYa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angel Calderon Mantilla",
+            "email": "angelitojpcmantilla24@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -24,10 +24,12 @@ Para comenzar a utilizar este proyecto, sigue estos pasos:
 
 ## Contribuir
 
-Si deseas contribuir a este proyecto, tu ayuda es bienvenida. Sigue las mejores prácticas de desarrollo de software y documenta cualquier cambio que realices. Utiliza GitHub para gestionar las contribuciones.
+¡Tu contribución es valiosa para mejorar **¡Factura Ya!**! Si deseas contribuir, sigue las mejores prácticas de desarrollo de software y documenta cualquier cambio que realices. Utiliza GitHub para gestionar las contribuciones.
+
+**Recuerda:** Al contribuir, asegúrate de hacer referencia a Angel, el creador original del proyecto.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la licencia MIT, lo que significa que puedes utilizar, modificar y distribuir el código de acuerdo con los términos de dicha licencia.
+Este proyecto está licenciado bajo la licencia MIT. Recuerda contribuir siempre reconociendo la autoría de Angel.
 
 ¡Gracias por contribuir y usar **¡Factura Ya!**!
